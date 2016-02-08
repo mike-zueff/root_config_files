@@ -1,0 +1,8 @@
+.Xauthority
+.bash_history
+.cache/lightdm-gtk-greeter
+.cache/mc
+.config/pulse
+.local/share/mc/history
+.vim/.netrwhist
+.viminfo
