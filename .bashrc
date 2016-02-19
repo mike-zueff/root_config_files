@@ -16,3 +16,5 @@ fi
 
 
 # Put your fun stuff here.
+
+cd /tmp
