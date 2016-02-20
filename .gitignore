@@ -4,7 +4,6 @@
 .cache
 .config/Trolltech.conf
 .config/dconf
-.config/libreoffice
 .config/mc
 .config/pulse
 .dbus
