@@ -4,8 +4,10 @@
 .cache
 .config/Trolltech.conf
 .config/dconf
+.config/htop
 .config/mc
 .config/pulse
+.config/wireshark
 .dbus
 .gnupg
 .kde4
