@@ -17,3 +17,4 @@
 .vim/.netrwhist
 .viminfo
 .xauth*
+cron_scripts/private_rc_file.sh
