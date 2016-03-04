@@ -3,6 +3,7 @@
 .bzr.log
 .cache
 .config/Trolltech.conf
+.config/cron_scripts/private_rc_file.sh
 .config/dconf
 .config/htop
 .config/mc
@@ -17,4 +18,3 @@
 .vim/.netrwhist
 .viminfo
 .xauth*
-cron_scripts/private_rc_file.sh

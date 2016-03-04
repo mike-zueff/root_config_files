@@ -1,5 +1,5 @@
-#!/bin/bash
-. /root/cron_scripts/private_rc_file.sh
+#!/usr/bin/env bash
+. /root/.config/cron_scripts/private_rc_file.sh
 
 for FILE in `ls /var/nullmailer/queue`
 do
