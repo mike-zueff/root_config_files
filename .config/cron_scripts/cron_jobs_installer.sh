@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
-ln --force --symbolic /root/.config/cron_scripts/local_delivery_agent.sh /etc/cron.hourly/local_delivery_agent
+[[ -d /root/.config/cron_scripts/cron.minutely ]] || mkdir /root/.config/cron_scripts/cron.minutely
+chmod u+x /root/.config/cron_scripts/local_delivery_agent.sh
+ln --force --symbolic /root/.config/cron_scripts/local_delivery_agent.sh /root/.config/cron_scripts/cron.minutely/local_delivery_agent.sh
