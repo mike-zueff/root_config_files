@@ -18,3 +18,5 @@ fi
 # Put your fun stuff here.
 
 cd /tmp
+
+. /home/ramesses/.config/rc_files/git_common.sh
