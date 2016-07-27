@@ -11,6 +11,7 @@
 .config/pulse
 .config/wireshark
 .dbus
+.gem
 .gnupg
 .kde4
 .lesshst
