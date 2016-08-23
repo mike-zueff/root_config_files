@@ -3,6 +3,7 @@
 .bzr.log
 .cache
 .cargo
+.cf
 .config/Trolltech.conf
 .config/cron_scripts/cron.minutely
 .config/cron_scripts/private_rc_file.sh
