@@ -19,4 +19,6 @@ fi
 
 cd /tmp
 
+export BC_ENV_ARGS=/home/ramesses/.config/bcrc
+
 . /home/ramesses/.config/rc_files/git_common.sh
