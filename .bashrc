@@ -17,7 +17,9 @@ fi
 
 # Put your fun stuff here.
 
-cd /tmp
+cd /tmp/volatile
+
+PATH=${PATH}:/opt/android-sdk-update-manager/tools
 
 export BC_ENV_ARGS=/home/ramesses/.config/bcrc
 
