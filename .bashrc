@@ -21,6 +21,8 @@ cd /tmp/volatile
 
 PATH=${PATH}:/opt/android-sdk-update-manager/tools
 
-export BC_ENV_ARGS=/home/ramesses/.config/bcrc
+. /root/.userrc
 
-. /home/ramesses/.config/rc_files/git_common.sh
+export BC_ENV_ARGS=/home/${MAIN_USER}/.config/bcrc
+
+. /home/${MAIN_USER}/.config/rc_files/git_common.sh

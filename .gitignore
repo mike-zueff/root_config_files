@@ -20,6 +20,7 @@
 .lesshst
 .local
 .subversion
+.userrc
 .vim/.netrwhist
 .viminfo
 .xauth*
