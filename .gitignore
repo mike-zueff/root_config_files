@@ -6,6 +6,7 @@
 .cargo
 .cf
 .config/Trolltech.conf
+.config/configstore/update-notifier-npm.json
 .config/cron_scripts/cron.minutely
 .config/cron_scripts/private_rc_file.sh
 .config/dconf
