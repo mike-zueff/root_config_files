@@ -26,3 +26,4 @@ PATH=${PATH}:/opt/android-sdk-update-manager/tools
 export BC_ENV_ARGS=/home/${MAIN_USER}/.config/bcrc
 
 . /home/${MAIN_USER}/.config/rc_files/git_common.sh
+. /home/${MAIN_USER}/.config/rc_files/ssh.sh
