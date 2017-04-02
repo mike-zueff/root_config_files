@@ -21,8 +21,8 @@
 .lesshst
 .local
 .rnd
-.ssh/id_rsa
-.ssh/id_rsa.pub
+.Xssh/id_rsa
+.Xssh/id_rsa.pub
 .subversion
 .userrc
 .vim/.netrwhist
