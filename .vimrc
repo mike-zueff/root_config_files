@@ -22,8 +22,10 @@ set ic
 set incsearch
 set mouse=a
 set nobackup
+set noexrc
 set noswapfile
 set ruler
+set secure
 set shiftwidth=2
 set showcmd
 set smartindent
