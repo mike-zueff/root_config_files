@@ -20,6 +20,7 @@
 .kde4
 .lesshst
 .local
+.npm
 .rnd
 .ssh/id_rsa
 .ssh/id_rsa.pub
