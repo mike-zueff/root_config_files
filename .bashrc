@@ -21,10 +21,10 @@ cd /tmp/volatile
 
 PATH=${PATH}:/opt/android-sdk-update-manager/tools
 
-. /root/.userrc
+. /root/.config/rc_files/principal_user.sh
 
-export BC_ENV_ARGS=/home/${MAIN_USER}/.config/bcrc
+export BC_ENV_ARGS=/home/${_RC_PRINCIPAL_USER}/.config/bcrc
 export GPG_TTY=$(tty)
 
-. /home/${MAIN_USER}/.config/rc_files/git_common.sh
-. /home/${MAIN_USER}/.config/rc_files/ssh.sh
+. /home/${_RC_PRINCIPAL_USER}/.config/rc_files/git_common.sh
+. /home/${_RC_PRINCIPAL_USER}/.config/rc_files/ssh.sh
