@@ -18,6 +18,7 @@
 .rnd
 .ssh
 .subversion
+.tig_history
 .vim
 .viminfo
 .xauth*
