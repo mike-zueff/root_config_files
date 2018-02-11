@@ -1,9 +1,9 @@
 [commit]
-	gpgsign = true
+	gpgsign = 1
 [credential]
 	helper = cache --timeout=3600
 [tag]
-	gpgsign = true
+	gpgsign = 1
 [user]
 	email = mike.zueff@gmail.com
 	name = Mike Zueff
