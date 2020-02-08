@@ -15,6 +15,7 @@
 .lesshst
 .local
 .npm
+.python_history
 .rnd
 .ssh
 .subversion
