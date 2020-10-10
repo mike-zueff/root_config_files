@@ -28,3 +28,4 @@ export GPG_TTY=$(tty)
 
 . /home/${_RC_PRINCIPAL_USER}/.config/rc_files/git_common.sh
 . /home/${_RC_PRINCIPAL_USER}/.config/rc_files/ssh.sh
+. /home/${_RC_PRINCIPAL_USER}/.config/rc_files/tor.sh
