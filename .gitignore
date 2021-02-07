@@ -12,6 +12,7 @@
 .config/rc_files
 .dbus
 .gnupg
+.keep_acct-user_root-0
 .lesshst
 .local
 .npm
