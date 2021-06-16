@@ -18,11 +18,7 @@ fi
 # Put your fun stuff here.
 
 cd /tmp/volatile
-
-PATH=${PATH}:/opt/android-sdk-update-manager/tools
-
 . /root/.config/rc_files/principal_user.sh
-
 export BC_ENV_ARGS=/home/${_RC_PRINCIPAL_USER}/.config/bcrc
 export GPG_TTY=$(tty)
 
