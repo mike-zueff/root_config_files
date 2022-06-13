@@ -36,4 +36,4 @@ set tabstop=2
 set wrap
 syntax on
 
-colorscheme slate
+colorscheme desert
