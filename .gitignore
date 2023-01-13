@@ -9,6 +9,7 @@
 .config/dconf
 .config/htop
 .config/mc
+.config/neofetch/config.conf
 .config/pulse
 .config/rc_files
 .dbus
