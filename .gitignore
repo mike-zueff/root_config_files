@@ -3,6 +3,7 @@
 .bash_history
 .bzr.log
 .cache
+.config/Nextcloud
 .config/bashtop
 .config/configstore
 .config/cron_scripts/cron.minutely
