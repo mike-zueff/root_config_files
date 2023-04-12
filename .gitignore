@@ -5,6 +5,7 @@
 .cache
 .config/Nextcloud
 .config/bashtop
+.config/btop
 .config/configstore
 .config/cron_scripts/cron.minutely
 .config/dconf
