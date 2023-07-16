@@ -22,6 +22,8 @@ cd /tmp/volatile
 export BC_ENV_ARGS=/home/${_RC_PRINCIPAL_USER}/.config/bcrc
 export GPG_TTY=$(tty)
 
+bind 'set bell-style none'
+
 . /home/${_RC_PRINCIPAL_USER}/.config/rc_files/git_common.sh
 . /home/${_RC_PRINCIPAL_USER}/.config/rc_files/ssh.sh
 . /home/${_RC_PRINCIPAL_USER}/.config/rc_files/tor.sh

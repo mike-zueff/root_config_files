@@ -10,6 +10,7 @@ map q <Nop>
 match ErrorMsg /\s\+$/
 set autoindent
 set backspace=indent,eol,start
+set belloff=all
 set confirm
 set encoding=utf-8
 set expandtab
