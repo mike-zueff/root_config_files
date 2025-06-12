@@ -13,6 +13,8 @@
 .config/mc
 .config/neofetch/config.conf
 .config/pulse
+.config/qt5ct
+.config/qt6ct
 .config/rc_files
 .dbus
 .gnupg
